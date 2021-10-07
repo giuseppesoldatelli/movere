@@ -9,3 +9,8 @@ Será necessário fazer o restore.
 
 ## Uso
 Na tela cadastre um usuário e faça o login.
+
+## Considerações
+Consegui realizar o cadastro de usuários porém tive dificuldades em realizar o insert do saldo com chaves estrangeiras.
+Por conta disso não pude evoluir no processo de desenvolvimento.
+
